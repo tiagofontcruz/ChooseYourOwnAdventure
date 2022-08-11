@@ -7,7 +7,7 @@ One of the first works produced in C++ in the Game Development program at New Br
 
 ## Getting Started
 
-The program consists of RPG monster generator with random characteristics and attributes. It uses the console to show the information.
+The program consists of RPG text game. It uses the console to show the information.
 
 ### Dependencies
 
